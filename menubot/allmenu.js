@@ -4,7 +4,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ◈ _Nama Owner : ${NamaOwner}_
 ◈ _Nomor Owner : ${NomorOwner}_
 ️ YT : AKIRA YT CHANNEL JANGAN LUPA SUBSCRIBE ️
-️ NOMOR : 081327327914 HEMAT JAN LUPA️
+️ NOMOR : 081327327914 JAN LUPA️ SAVE
 〽️ IG : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
 〽️ TIK TOK : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
 
