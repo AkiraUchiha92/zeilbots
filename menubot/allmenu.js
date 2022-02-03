@@ -3,8 +3,8 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ──────────────────
 ◈ _Nama Owner : ${NamaOwner}_
 ◈ _Nomor Owner : ${NomorOwner}_
-️ YT : Zeil Botz JANGAN LUPA SUBSCRIBE ️
-️ NOMOR : {"clientID":"hpuuxWkpRoHHa/baC9zZAw==","serverToken":"1@htRlDPCm2oP98xehALc3ro8u8rHaWzVVpNtNTW7TQXd7P/qndc3OIG1R/X5R2DADXLCCD9To5ztE2g==","clientToken":"/zcNrkansz4PAuaxZ1FhzLCMSMsNi5GXuai2HhCzJsE=","encKey":"+VWnHKPLaPuVszDKlFu6/sAizoXRwblUut4Yrpq0JDQ=","macKey":"oKLgHbnbef7SPPCmMC2iy7Zi0nYBNFp46lJ02FJyCvk="} HEMAT JAN LUPA️S
+️ YT : AKIRA YT CHANNEL JANGAN LUPA SUBSCRIBE ️
+️ NOMOR : 081327327914 HEMAT JAN LUPA️
 〽️ IG : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
 〽️ TIK TOK : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
 
@@ -327,7 +327,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ║│${prefix}herolist「 Mobile Legends 」
 ║│${prefix}googlesearch 「 Terserah 」
 ╠══════════════════════╡
-║     By *ZeilBotz*
+║     By *AkiraBotz*
 ╚══════════════════════╡`
 }
 exports.menunya = menunya
